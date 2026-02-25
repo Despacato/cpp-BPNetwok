@@ -57,3 +57,7 @@ Requires CMake 2.8.12+ and a C++11-compatible compiler.
 ## Author
 
 Despacato — dlmu_zxg@163.com
+
+## Acknowledgement
+
+This project is fully based on [GavinTechStudio/Back-Propagation-Neural-Network](https://github.com/GavinTechStudio/Back-Propagation-Neural-Network) for learning purposes. Many thanks to GavinTechStudio for the excellent reference implementation.
